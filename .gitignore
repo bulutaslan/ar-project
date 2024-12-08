@@ -52,7 +52,6 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.apk
 *.unitypackage
 Packages/com.ptc.vuforia.engine-10.28.4.tgz
 
